@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Hobby
+   1. Reading
+   
+
+   2. Traveling
+   3. Exercise
+   4. Dancing
+
+
